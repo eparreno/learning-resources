@@ -5,6 +5,6 @@ Learning resources for software engineers and engineering managers
 
 ## Tech Leadership
 
-## Management
+[Management](./management)
 
 
